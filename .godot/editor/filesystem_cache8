@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702411520
+BGMusic.ogg::AudioStreamOggVorbis::1963856983611228420::1701203620::1702410627::1::::<><>::
+bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401874::1702410627::1::::<><>::
+enemy.png::CompressedTexture2D::5591272491634969294::1702401874::1702410627::1::::<><>::
+enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401874::1702410627::1::::<><>::
+icon.svg::CompressedTexture2D::7653978998285427738::1702410823::1702410823::1::::<><>::
+README.md::TextFile::-1::1702410341::0::1::::<><>::
+::res://Scenes/::1702411419
+player.tscn::PackedScene::7396886824670247507::1702411419::0::1::::<><>::uid://dhbv6eyh45c07::::res://icon.svg<>res://Scripts/player.gd
+world.tscn::PackedScene::5919562393290713419::1702411419::0::1::::<><>::uid://ddndv68ap8wf0::::res://Scenes/player.tscn
+::res://Scripts/::1702411376
+player.gd::GDScript::-1::1702411376::0::1::::<>Area2D<>::
